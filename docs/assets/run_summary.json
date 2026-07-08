@@ -1,0 +1,14 @@
+{
+  "best_model": "mlp",
+  "validation_accuracy": 0.9752380952380952,
+  "model_scores": {
+    "logreg": 0.9134523809523809,
+    "gnb": 0.5620238095238095,
+    "dt": 0.8644047619047619,
+    "mlp": 0.9752380952380952
+  },
+  "n_train_full": 42000,
+  "n_val": 8400,
+  "test_predictions": 28000,
+  "model_artifact": "outputs/model.joblib"
+}
